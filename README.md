@@ -1,2 +1,2 @@
-# site-simples-html-css-origin
+# site-simples-html-css
 Projeto Desenvolvido com apoio da Rocketseat
